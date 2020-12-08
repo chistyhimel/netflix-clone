@@ -3,7 +3,7 @@
 
 A Netflix clone single page application. <br/>
 
-## [Live Site](https://whatsapp-mern-teamproject.web.app/ "Netflix Clone")
+## [Live Site](https://netflix-clone-himel.netlify.app/ "Netflix Clone")
 
 
 <br/>
